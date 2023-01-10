@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: komo13/go-helloworld-2
+      - image: 35d51b367620ef579609aed15bebd8ddce3a4dba
         name: go-helloworld-2
